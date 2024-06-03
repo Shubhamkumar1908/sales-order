@@ -1,0 +1,8 @@
+Button.login{
+background-color: rgb(254, 136, 136);
+}
+Input.input{
+    border: 2px solid black;
+    border-radius: 6px;
+    color: black;
+}
